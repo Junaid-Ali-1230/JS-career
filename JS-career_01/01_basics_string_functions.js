@@ -19,5 +19,5 @@ const  gameName = new String ("abcdLemXseneXiopj")
 // console.log(gameName.replaceAll('X',"-R-"))
 // console.log(gameName.includes("Lem"))
 // console.log(gameName.split("X")) 
-
+ 
 
